@@ -5,5 +5,6 @@ En este repositorio encontrarás el código de proyectos y ejercicios sencillos 
 - La computadora adivina el número ingresado por el usuario. ```Adivinar_Num.py```
 - Contar la cantidad de palabras digitadas por el usuario. ```Conteo_Palabras.py```
 - Historias locas (Mad Libs). ```Mad_Libs.py```
+- Piedra, papel o tijera. ```Piedra_papel_tijera.py```
 
 Espero que te sirvan. 😄
